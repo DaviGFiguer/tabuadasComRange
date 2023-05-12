@@ -1,5 +1,5 @@
 # tabuadasComRange
-Exercício para plataforma beecrowd seguindo a minha lógica de resolução
+Exercício para plataforma beecrowd seguindo a minha lógica de resolução, utilizando laço aninhado
 
 <h2>Entrada</h2>
 <p>Dois números inteiros, um em cada linha.</p>
@@ -8,7 +8,7 @@ Exercício para plataforma beecrowd seguindo a minha lógica de resolução
 <p>As tabuadas de todos os valores inteiros no intervalo fechado crescente [ A..B ]. Ao fim de cada tabuada, exibir uma linha com dez hifens ('-'). Caso A seja maior do que B, o intervalo será vazio e, neste caso, deve ser exibida somente a frase 'Nenhuma tabuada no intervalo!', sem apóstrofos. Obs.: Lembre-se de não exibir texto no <i>input</i>.</p>
 
 <table><thead><tr><td>Samples Input</td><td>Samples Output</td></tr></thead><tbody><tr>
-<td class="division"><p>2<br>
+<td><p>2<br>
 3<br>
 </p></td>
 <td><p>2 x 1 = 2<br>
@@ -35,7 +35,7 @@ Exercício para plataforma beecrowd seguindo a minha lógica de resolução
 ----------<br>
 </p></td></tr></tbody></table>
 
-<table>
+<table><tr><td>Samples Input</td><td>Samples Output</td></tr>
 <thead>
 </thead>
 <tbody>
@@ -87,7 +87,7 @@ Exercício para plataforma beecrowd seguindo a minha lógica de resolução
 </tbody>
 </table>
 
-<table>
+<table><tr><td>Samples Input</td><td>Samples Output</td></tr>
 <thead>
 </thead>
 <tbody>
@@ -117,7 +117,7 @@ Exercício para plataforma beecrowd seguindo a minha lógica de resolução
 </tbody>
 </table>
 
-<table>
+<table><tr><td>Samples Input</td><td>Samples Output</td></tr>
 <thead>
 </thead>
 <tbody>
